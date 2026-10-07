@@ -1,0 +1,6 @@
+{
+  "name": "EduSheet - Phiếu Học Tập Tương Tác & Google Sheets",
+  "description": "Hệ thống thiết kế phiếu học tập tương tác online dành cho giáo viên, tự động đồng bộ kết quả và điểm số học sinh về Google Sheets trên Google Drive.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
